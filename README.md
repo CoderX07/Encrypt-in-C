@@ -1,1 +1,1 @@
-# Encrypt-in-C
+# Encryptor-in-C
